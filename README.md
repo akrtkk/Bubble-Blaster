@@ -5,3 +5,8 @@ Creative Commons CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 
 This project is complety written in Python 3.0 got this code from a DK book
+
+# How-TO-Run
+''' 
+python gui.py
+'''
